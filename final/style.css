@@ -9,3 +9,11 @@
 #bootcol2{
     background-color: brown;
 }
+
+#candidateName{
+    font-size:x-large;
+}
+
+#candidateDesc{
+    font-size: small;
+}
